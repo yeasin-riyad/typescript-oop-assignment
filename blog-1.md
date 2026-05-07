@@ -192,6 +192,4 @@ let data: unknown;
 * `unknown` ব্যবহার করলে safe coding নিশ্চিত হয়
 * type narrowing = safe access এর key
 
-👉 Professional TypeScript developer হতে হলে:
 
-> `any` কম ব্যবহার করো, `unknown` + narrowing ব্যবহার করো 💪
