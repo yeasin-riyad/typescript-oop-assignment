@@ -241,4 +241,4 @@ TypeScript-এর `Pick` এবং `Omit` utility types:
 * API design secure করে
 * বড় project scalable করে
 
-👉 এগুলো mastery করলে তুমি clean architecture লিখতে পারবে 🔥
+
